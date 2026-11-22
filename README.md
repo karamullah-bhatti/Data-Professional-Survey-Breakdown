@@ -36,7 +36,8 @@ The objective is to transform raw survey data into meaningful insights that help
 - Analyzing survey data and communicating business insights.
 
 ## Dashboard Preview
-_Add a screenshot of your completed Power BI dashboard here._
+<img width="1144" height="487" alt="image" src="https://github.com/user-attachments/assets/8f118895-a0e4-48ac-85cd-a5f4121a05a0" />
+
 
 ## Project Files
 - `.pbix` – Power BI project file.
